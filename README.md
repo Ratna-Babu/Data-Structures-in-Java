@@ -15,7 +15,7 @@ Each of these data structures is implemented in its own repository with detailed
 ### 1. [Linked Lists](https://github.com/Ratna-Babu/LinkedList-Java)
    - Implementations of  Linked List data structure in Java.
 
-### 2. [Stacks](https://github.comRatna-Babu/Stacks-Java)
+### 2. [Stacks](https://github.com/Ratna-Babu/Stacks-Java)
    - Implementations of Stack data structure using arrays and linked lists.
 
 ### 3. [Queues](https://github.com/Ratna-Babu/Queues-Java)
