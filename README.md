@@ -45,6 +45,7 @@ To explore or contribute to any of the data structure implementations:
 
 ---
 
+
 ## Contributing
 
 Feel free to contribute to this repository or any of the linked repositories. If you would like to add a new data structure, please follow these steps:
